@@ -29,3 +29,6 @@ The project is broken down into modular Java classes:
 1.  **Clone the Repository:** Download the project files.
 2.  **Open in IntelliJ IDEA:** Open the project directory as a Java project in **IntelliJ IDEA** (recommended IDE).
 3.  **Run `Main.java`:** Execute the `main` method in the `Main.java` class to run the solver against the pre-defined test cases.
+
+
+![Example of a Sliding Number Puzzle Challenge](Sliding_number.png)
